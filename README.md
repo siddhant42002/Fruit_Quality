@@ -11,8 +11,6 @@ A smart Android application that identifies fruit quality and grading using Deep
 - 🔍 Real-time fruit quality detection
 - 🏷️ Grade classification (A, B, C)
 - 🌍 Country-wise export suggestions
-- 🧪 LAB Reports module
-- ⏳ Fruit Lifetime predictor
 - ⭐ Quality-based rating system
 
 ---
